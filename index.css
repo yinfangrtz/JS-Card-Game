@@ -1,0 +1,11 @@
+body {
+    background-color: darkslateblue;
+    color: beige;
+    text-align: center;
+}
+
+button {
+    display: block;
+    padding: 5px 20px;
+    margin: 10px auto;
+}
